@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031304974777",
+    "project_id": "minimart-a8d32",
+    "storage_bucket": "minimart-a8d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031304974777:android:6beb01e339a080c27be668",
+        "android_client_info": {
+          "package_name": "com.example.minimart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031304974777-46ab9vqochmfuucud18rgg8o2p93ve97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0JYp58T8uiYmP_ubwdKYSp7l2XcWfthk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031304974777-46ab9vqochmfuucud18rgg8o2p93ve97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
